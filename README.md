@@ -22,5 +22,3 @@ Install gnome-tweaks
 * Run `dircolors path-to-file -b >> ~/.zshrc`
 * The above command generates the `LS_COLORS` variable and writes it to the `.zshrc` file
 * Files with execute permission override the colour, EXEC files have separate colour in the dircolors file - https://unix.stackexchange.com/questions/174538/ls-color-auto-dir-colors-not-working-in-one-directory
-
-access token: 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
