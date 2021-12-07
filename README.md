@@ -32,40 +32,40 @@ Install gnome-tweaks
 * Pipewire to detect bluetooth profile - https://atish3604.medium.com/solved-bluetooth-headset-mic-not-working-detected-in-ubuntu-20-04-86a5236444d0
 
 ### Apps
-- Brave
-- VSCode
-- Discord
-- VLC
-- Postman
-- Okular reader
-- Spotify
-- Anydesk
-- Chromium
-- Insync
-- Teams
-- Obsidian
-- Virtual box
-- qbittorent
-- proton vpn
-- SimpleScreenRecorder
-- Slack
-- Steam
-- Telegram
+[ ] Brave
+[ ] VSCode
+[ ] Discord
+[ ] VLC
+[ ] Postman
+[ ] Okular reader
+[ ] Spotify
+[ ] Anydesk
+[ ] Chromium
+[ ] Insync
+[ ] Teams
+[ ] Obsidian
+[ ] Virtual box
+[ ] qbittorent
+[ ] proton vpn
+[ ] SimpleScreenRecorder
+[ ] Slack
+[ ] Steam
+[ ] Telegram
 
 ### dev
-- miniconda
-- matlab
-- cuda toolkit 11.3
-- nvm
+[ ] miniconda
+[ ] matlab
+[ ] cuda toolkit 11.3
+[ ] nvm
 
 ### Browser extensions
-- Onetab
-- privacy badger
-- ublock origin
-- decentraleyes
-- https everwhere
-- lastpass
-- clean twitter
-- userstyles
-- darkreader
+[ ] Onetab
+[ ] privacy badger
+[ ] ublock origin
+[ ] decentraleyes
+[ ] https everwhere
+[ ] lastpass
+[ ] clean twitter
+[ ] userstyles
+[ ] darkreader
 
