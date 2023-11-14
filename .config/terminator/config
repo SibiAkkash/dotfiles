@@ -1,0 +1,242 @@
+[global_config]
+  geometry_hinting = True
+  title_transmit_fg_color = "#000000"
+  title_transmit_bg_color = "#ffad00"
+  enabled_plugins = LaunchpadBugURLHandler, LaunchpadCodeURLHandler, APTURLHandler, TerminatorThemes
+  suppress_multiple_term_dialog = True
+[keybindings]
+  split_horiz = <Primary><Shift>o
+  split_vert = <Primary><Shift>l
+  reset = <Alt>r
+[profiles]
+  [[default]]
+    background_color = "#1c1c1e"
+    cursor_color = "#aaaaaa"
+    font = MesloLGS NF 9
+    foreground_color = "#e1e4e9"
+    palette = "#1b1c1e:#ea4335:#34a853:#fbbc04:#4285f4:#a142f4:#24c1e0:#e8eaed:#5f6368:#ea4335:#34a853:#fbbc05:#4285f4:#a142f4:#24c1e0:#ffffff"
+    login_shell = True
+    use_system_font = False
+  [[Elementary]]
+    background_color = "#1c1c1c"
+    cursor_color = "#e2bbef"
+    font = MesloLGS NF 10
+    foreground_color = "#ddeedd"
+    palette = "#3d352a:#cd5c5c:#86af80:#e8ae5b:#6495ed:#deb887:#b0c4de:#bbaa99:#554444:#cc5533:#88aa22:#ffa75d:#87ceeb:#996600:#b0c4de:#ddccbb"
+    login_shell = True
+    use_system_font = False
+  [[Arthur]]
+    cursor_color = "#aaaaaa"
+    font = MesloLGS NF 10
+    use_system_font = False
+  [[SpaceGray Eighties]]
+    background_color = "#222222"
+    cursor_color = "#bbbbbb"
+    font = MesloLGS NF 10
+    foreground_color = "#bdbaae"
+    palette = "#15171c:#ec5f67:#81a764:#fec254:#5486c0:#bf83c1:#57c2c1:#efece7:#555555:#ff6973:#93d493:#ffd256:#4d84d1:#ff55ff:#83e9e4:#ffffff"
+    login_shell = True
+    use_system_font = False
+  [[Spacedust]]
+    background_color = "#0a1e24"
+    cursor_color = "#708284"
+    font = MesloLGS NF 10
+    foreground_color = "#ecf0c1"
+    palette = "#6e5346:#e35b00:#5cab96:#e3cd7b:#0f548b:#e35b00:#06afc7:#f0f1ce:#684c31:#ff8a3a:#aecab8:#ffc878:#67a0ce:#ff8a3a:#83a7b4:#fefff1"
+    login_shell = True
+    use_system_font = False
+  [[Solarized Dark - Patched]]
+    background_color = "#001e27"
+    cursor_color = "#708284"
+    font = MesloLGS NF 10
+    foreground_color = "#708284"
+    palette = "#002831:#d11c24:#738a05:#a57706:#2176c7:#c61c6f:#259286:#eae3cb:#475b62:#bd3613:#475b62:#536870:#708284:#5956ba:#819090:#fcf4dc"
+    login_shell = True
+    use_system_font = False
+  [[Snazzy]]
+    background_color = "#242424"
+    cursor_color = "#97979b"
+    font = MesloLGS NF 10
+    foreground_color = "#eff0eb"
+    palette = "#282a36:#ff5c57:#5af78e:#f3f99d:#57c7ff:#ff6ac1:#9aedfe:#f1f1f0:#686868:#ff5c57:#5af78e:#f3f99d:#57c7ff:#ff6ac1:#9aedfe:#eff0eb"
+    login_shell = True
+    use_system_font = False
+  [[Jellybeans]]
+    background_color = "#121212"
+    cursor_color = "#ffa560"
+    font = MesloLGS NF 10
+    foreground_color = "#dedede"
+    palette = "#929292:#e27373:#94b979:#ffba7b:#97bedc:#e1c0fa:#00988e:#dedede:#bdbdbd:#ffa1a1:#bddeab:#ffdca0:#b1d8f6:#fbdaff:#1ab2a8:#ffffff"
+    login_shell = True
+    use_system_font = False
+  [[Bright Lights]]
+    background_color = "#191919"
+    cursor_color = "#f34b00"
+    font = MesloLGS NF 10
+    foreground_color = "#b3c9d7"
+    palette = "#191919:#ff355b:#b7e876:#ffc251:#76d4ff:#ba76e7:#6cbfb5:#c2c8d7:#191919:#ff355b:#b7e876:#ffc251:#76d5ff:#ba76e7:#6cbfb5:#c2c8d7"
+    login_shell = True
+    use_system_font = False
+  [[Darkside]]
+    background_color = "#222324"
+    cursor_color = "#bbbbbb"
+    font = MesloLGS NF 10
+    foreground_color = "#bababa"
+    palette = "#000000:#e8341c:#68c256:#f2d42c:#1c98e8:#8e69c9:#1c98e8:#bababa:#000000:#e05a4f:#77b869:#efd64b:#387cd3:#957bbe:#3d97e2:#bababa"
+    login_shell = True
+    use_system_font = False
+  [[Brogrammer]]
+    background_color = "#131313"
+    cursor_color = "#b9b9b9"
+    font = MesloLGS NF 10
+    foreground_color = "#d6dbe5"
+    palette = "#1f1f1f:#f81118:#2dc55e:#ecba0f:#2a84d2:#4e5ab7:#1081d6:#d6dbe5:#d6dbe5:#de352e:#1dd361:#f3bd09:#1081d6:#5350b9:#0f7ddb:#ffffff"
+    login_shell = True
+    use_system_font = False
+  [[Espresso]]
+    background_color = "#323232"
+    cursor_color = "#d6d6d6"
+    font = MesloLGS NF 10
+    foreground_color = "#ffffff"
+    palette = "#353535:#d25252:#a5c261:#ffc66d:#6c99bb:#d197d9:#bed6ff:#eeeeec:#535353:#f00c0c:#c2e075:#e1e48b:#8ab7d9:#efb5f7:#dcf4ff:#ffffff"
+    login_shell = True
+    use_system_font = False
+  [[Firewatch]]
+    background_color = "#1e2027"
+    cursor_color = "#f6f7ec"
+    font = MesloLGS NF 10
+    foreground_color = "#9ba2b2"
+    palette = "#585f6d:#d95360:#5ab977:#dfb563:#4d89c4:#d55119:#44a8b6:#e6e5ff:#585f6d:#d95360:#5ab977:#dfb563:#4c89c5:#d55119:#44a8b6:#e6e5ff"
+    login_shell = True
+    use_system_font = False
+  [[FirefoxDev]]
+    background_color = "#0e1011"
+    cursor_color = "#708284"
+    font = MesloLGS NF 10
+    foreground_color = "#7c8fa4"
+    palette = "#002831:#e63853:#5eb83c:#a57706:#359ddf:#d75cff:#4b73a2:#dcdcdc:#001e27:#e1003f:#1d9000:#cd9409:#006fc0:#a200da:#005794:#e2e2e2"
+    login_shell = True
+    use_system_font = False
+  [[Glacier]]
+    background_color = "#0c1115"
+    cursor_color = "#6c6c6c"
+    font = MesloLGS NF 10
+    foreground_color = "#ffffff"
+    palette = "#2e343c:#bd0f2f:#35a770:#fb9435:#1f5872:#bd2523:#778397:#ffffff:#404a55:#bd0f2f:#49e998:#fddf6e:#2a8bc1:#ea4727:#a0b6d3:#ffffff"
+    login_shell = True
+    use_system_font = False
+  [[Galaxy]]
+    background_color = "#1d2837"
+    cursor_color = "#bbbbbb"
+    font = MesloLGS NF 10
+    foreground_color = "#ffffff"
+    palette = "#000000:#f9555f:#21b089:#fef02a:#589df6:#944d95:#1f9ee7:#bbbbbb:#555555:#fa8c8f:#35bb9a:#ffff55:#589df6:#e75699:#3979bc:#ffffff"
+    login_shell = True
+    use_system_font = False
+  [[Halcyon]]
+    background_color = "#171c28"
+    cursor_color = "#5ccfe6"
+    font = MesloLGS NF 10
+    foreground_color = "#d7dce2"
+    palette = "#1d2433:#ef6b73:#bae67e:#ffd580:#6679a4:#c3a6ff:#5ccfe6:#d7dce2:#1d2433:#ef6b73:#bae67e:#ffd580:#6679a4:#c3a6ff:#5ccfe6:#d7dce2"
+    login_shell = True
+    use_system_font = False
+  [[Highway]]
+    background_color = "#222225"
+    cursor_color = "#e0d9b9"
+    font = MesloLGS NF 10
+    foreground_color = "#ededed"
+    palette = "#000000:#d00e18:#138034:#ffcb3e:#006bb3:#6b2775:#384564:#ededed:#5d504a:#f07e18:#b1d130:#fff120:#4fc2fd:#de0071:#5d504a:#ffffff"
+    login_shell = True
+    use_system_font = False
+  [[idleToes]]
+    background_color = "#323232"
+    cursor_color = "#d6d6d6"
+    font = MesloLGS NF 10
+    foreground_color = "#ffffff"
+    palette = "#323232:#d25252:#7fe173:#ffc66d:#4099ff:#f680ff:#bed6ff:#eeeeec:#535353:#f07070:#9dff91:#ffe48b:#5eb7f7:#ff9dff:#dcf4ff:#ffffff"
+    login_shell = True
+    use_system_font = False
+  [[Material-Ocean]]
+    background_color = "#0f111a"
+    cursor_color = "#ffcc00"
+    cursor_color_fg = False
+    font = MesloLGS NF 10
+    foreground_color = "#8f93a2"
+    palette = "#2e3436:#ff5370:#c3e88d:#ffcb6b:#82aaff:#c792ea:#89ddff:#d3d7cf:#555753:#f07178:#c3e88d:#f78c6c:#729fcf:#bb80b3:#89ddff:#eeeeec"
+    login_shell = True
+    use_system_font = False
+  [[Aci]]
+    background_color = "#0d1926"
+    cursor_color = "#c4e9ff"
+    font = MesloLGS NF 10
+    foreground_color = "#b4e1fd"
+    palette = "#363636:#ff0883:#83ff08:#ff8308:#0883ff:#8308ff:#08ff83:#b6b6b6:#363636:#ff0883:#83ff08:#ff8308:#0883ff:#8308ff:#08ff83:#b6b6b6"
+    login_shell = True
+    use_system_font = False
+  [[Wombat]]
+    background_color = "#171717"
+    cursor_color = "#bbbbbb"
+    font = MesloLGS NF 10
+    foreground_color = "#dedacf"
+    palette = "#000000:#ff615a:#b1e969:#ebd99c:#5da9f6:#e86aff:#82fff7:#dedacf:#313131:#f58c80:#ddf88f:#eee5b2:#a5c7ff:#ddaaff:#b7fff9:#ffffff"
+    login_shell = True
+    use_system_font = False
+  [[VibrantInk]]
+    cursor_color = "#ffffff"
+    font = MesloLGS NF 10
+    foreground_color = "#ffffff"
+    palette = "#878787:#ff6600:#ccff04:#ffcc00:#44b4cc:#9933cc:#44b4cc:#f5f5f5:#555555:#ff0000:#00ff00:#ffff00:#0000ff:#ff00ff:#00ffff:#e5e5e5"
+    login_shell = True
+    use_system_font = False
+  [[SeaShells]]
+    background_color = "#09141b"
+    cursor_color = "#fca02f"
+    font = MesloLGS NF 10
+    foreground_color = "#deb88d"
+    palette = "#17384c:#d15123:#027c9b:#fca02f:#1e4950:#68d4f1:#50a3b5:#deb88d:#434b53:#d48678:#628d98:#fdd39f:#1bbcdd:#bbe3ee:#87acb4:#fee4ce"
+    login_shell = True
+    use_system_font = False
+  [[Night Owl]]
+    background_color = "#011627"
+    cursor_color = "#80a4c2"
+    cursor_color_fg = False
+    font = MesloLGS NF 10
+    foreground_color = "#d6deeb"
+    palette = "#2e3436:#ef5350:#80cbc4:#ffeb95:#82aaff:#c792ea:#addb67:#d3d7cf:#555753:#ef5350:#80cbc4:#ffeb95:#82aaff:#c792ea:#addb67:#eeeeec"
+    login_shell = True
+    use_system_font = False
+  [[3024 Day]]
+    background_color = "#f7f7f7"
+    cursor_color = "#4a4543"
+    font = MesloLGS NF 9
+    foreground_color = "#4a4543"
+    palette = "#090300:#db2d20:#01a252:#fded02:#01a0e4:#a16a94:#b5e4f4:#a5a2a2:#5c5855:#e8bbd0:#3a3432:#4a4543:#807d7c:#d6d5d4:#cdab53:#f7f7f7"
+    login_shell = True
+    use_system_font = False
+  [[Alabaster]]
+    background_color = "#f7f7f7"
+    cursor_color = "#007acc"
+    font = MesloLGS NF 9
+    foreground_color = "#000000"
+    palette = "#000000:#aa3731:#448c27:#cb9000:#325cc0:#7a3e9d:#0083b2:#f7f7f7:#777777:#f05050:#60cb00:#ffbc5d:#007acc:#e64ce6:#00aacb:#f7f7f7"
+    login_shell = True
+    use_system_font = False
+  [[3024 Night]]
+    background_color = "#090300"
+    cursor_color = "#a5a2a2"
+    font = MesloLGS NF 9
+    foreground_color = "#a5a2a2"
+    palette = "#090300:#db2d20:#01a252:#fded02:#01a0e4:#a16a94:#b5e4f4:#a5a2a2:#5c5855:#e8bbd0:#3a3432:#4a4543:#807d7c:#d6d5d4:#cdab53:#f7f7f7"
+    login_shell = True
+    use_system_font = False
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+      profile = default
+[plugins]
